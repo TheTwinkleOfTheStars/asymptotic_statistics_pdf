@@ -11,3 +11,6 @@ https://speakerdeck.com/asymptotic_minato/asymptotic-statistics-section-6-dot-1
 
 第14回勉強会PDF(Section 6.2 Le Camの第一補題)
 `sec6_2_lem6_4.pdf`
+
+第19回勉強会PDF(Section 7.3  7.10 Theoremの紹介まで)
+`sec7_3.pdf`
